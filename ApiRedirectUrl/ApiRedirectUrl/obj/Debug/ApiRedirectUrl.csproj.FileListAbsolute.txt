@@ -1,0 +1,13 @@
+D:\code\ApiRedirectUrl\ApiRedirectUrl\bin\ApiRedirectUrl.dll
+D:\code\ApiRedirectUrl\ApiRedirectUrl\bin\ApiRedirectUrl.pdb
+D:\code\ApiRedirectUrl\ApiRedirectUrl\obj\Debug\ApiRedirectUrl.csprojResolveAssemblyReference.cache
+D:\code\ApiRedirectUrl\ApiRedirectUrl\obj\Debug\ApiRedirectUrl.dll
+D:\code\ApiRedirectUrl\ApiRedirectUrl\obj\Debug\ApiRedirectUrl.pdb
+D:\code\ApiRedirectUrl\ApiRedirectUrl\bin\Newtonsoft.Json.dll
+D:\code\ApiRedirectUrl\ApiRedirectUrl\bin\Newtonsoft.Json.xml
+D:\code\API\ApiRedirectUrl\ApiRedirectUrl\bin\ApiRedirectUrl.dll
+D:\code\API\ApiRedirectUrl\ApiRedirectUrl\bin\ApiRedirectUrl.pdb
+D:\code\API\ApiRedirectUrl\ApiRedirectUrl\bin\Newtonsoft.Json.xml
+D:\code\API\ApiRedirectUrl\ApiRedirectUrl\obj\Debug\ApiRedirectUrl.csprojResolveAssemblyReference.cache
+D:\code\API\ApiRedirectUrl\ApiRedirectUrl\obj\Debug\ApiRedirectUrl.dll
+D:\code\API\ApiRedirectUrl\ApiRedirectUrl\obj\Debug\ApiRedirectUrl.pdb

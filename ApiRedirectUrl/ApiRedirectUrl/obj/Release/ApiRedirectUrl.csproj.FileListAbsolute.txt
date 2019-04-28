@@ -1,0 +1,5 @@
+D:\code\ApiRedirectUrl\ApiRedirectUrl\bin\ApiRedirectUrl.dll
+D:\code\ApiRedirectUrl\ApiRedirectUrl\bin\ApiRedirectUrl.pdb
+D:\code\ApiRedirectUrl\ApiRedirectUrl\obj\Release\ApiRedirectUrl.dll
+D:\code\ApiRedirectUrl\ApiRedirectUrl\obj\Release\ApiRedirectUrl.pdb
+D:\code\ApiRedirectUrl\ApiRedirectUrl\obj\Release\ApiRedirectUrl.csprojResolveAssemblyReference.cache

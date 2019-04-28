@@ -1,0 +1,7 @@
+D:\Workplace\HS\src\APIS\GS.Wish\obj\Debug\GS.Wish.csprojResolveAssemblyReference.cache
+D:\Workplace\HS\src\APIS\GS.Wish\bin\Debug\GS.Wish.dll
+D:\Workplace\HS\src\APIS\GS.Wish\bin\Debug\GS.Wish.pdb
+D:\Workplace\HS\src\APIS\GS.Wish\bin\Debug\Newtonsoft.Json.dll
+D:\Workplace\HS\src\APIS\GS.Wish\bin\Debug\Newtonsoft.Json.xml
+D:\Workplace\HS\src\APIS\GS.Wish\obj\Debug\GS.Wish.dll
+D:\Workplace\HS\src\APIS\GS.Wish\obj\Debug\GS.Wish.pdb
